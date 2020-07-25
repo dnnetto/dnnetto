@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donato-notarnicola-netto/)](https://www.linkedin.com/in/donato-notarnicola-netto/) 
++ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donato-notarnicola-netto/)](https://www.linkedin.com/in/donato-notarnicola-netto/) 
 + [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnnetto@gmail.com)](mailto:dnnetto@gmail.com)
 
 <!--
